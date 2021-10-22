@@ -4,4 +4,9 @@ def print_hello():
 def greet_white():
     print("hello white")
 
+def greet_black():
+    print("hello black")
+
 print_hello()
+greet_black()
+greet_white()
